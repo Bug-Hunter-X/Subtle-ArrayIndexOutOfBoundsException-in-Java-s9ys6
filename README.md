@@ -1,0 +1,1 @@
+This repository demonstrates a subtle `ArrayIndexOutOfBoundsException` in Java.  The error isn't immediately obvious, as it involves an off-by-one error when accessing an array's index, but a common scenario when working with arrays. The solution shows how to prevent such errors using proper bounds checking.
